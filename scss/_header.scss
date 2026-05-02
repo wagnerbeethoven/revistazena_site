@@ -1,0 +1,119 @@
+.header {
+    padding-top: 60px;
+    @extend .clearfix;
+    border-bottom: 1px solid rgba(112, 112, 112, 0.5);
+
+    &-icon,
+    &-paint,
+    &-mask {
+
+        position: relative;
+        border-radius: 4px;
+
+        &:hover,
+        &:focus,
+        &:visited,
+        &:active {
+            cursor: pointer;
+        }
+    }
+
+    &-paint,
+    &-mask {
+        width: 90px;
+        height: 90px;
+    }
+
+    &-icon {
+        float: left;
+        width: 100px;
+    }
+
+    &-mask {
+        background-size: contain;
+        background: transparent url(../img/mask.svg) center no-repeat;
+        z-index: 2;
+    }
+
+    &-paint {
+        position: absolute;
+        background-size: cover;
+        top: 0;
+        z-index: 1;
+
+        &-0 {
+            background-image: url(../img/paints/paint-00.jpg)
+        }
+
+        &-1 {
+            background-image: url(../img/paints/paint-01.jpg)
+        }
+
+        &-2 {
+            background-image: url(../img/paints/paint-02.jpg)
+        }
+
+        &-3 {
+            background-image: url(../img/paints/paint-03.jpg)
+        }
+
+        &-4 {
+            background-image: url(../img/paints/paint-04.jpg)
+        }
+
+        &-5 {
+            background-image: url(../img/paints/paint-05.jpg)
+        }
+
+        &-6 {
+            background-image: url(../img/paints/paint-06.jpg)
+        }
+
+        &-7 {
+            background-image: url(../img/paints/paint-07.jpg)
+        }
+
+        &-8 {
+            background-image: url(../img/paints/paint-08.jpg)
+        }
+
+        &-9 {
+            background-image: url(../img/paints/paint-09.jpg)
+        }
+
+        &-10 {
+            background-image: url(../img/paints/paint-10.jpg)
+        }
+    }
+
+    &-navigation {
+        float: left;
+        width: calc(100% - 100px);
+        padding-left: 30px;
+    }
+
+}
+
+.site {
+    &-title {
+        display: block;
+        width: 100%;
+        margin: 0;
+
+        a {
+
+            &:hover,
+            &:focus,
+            &:visited,
+            &:active {
+                border-bottom-width: 0;
+            }
+
+            img {
+                height: 60px;
+                width: 81px;
+            }
+        }
+
+    }
+}

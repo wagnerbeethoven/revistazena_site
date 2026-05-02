@@ -1,0 +1,58 @@
+---
+layout: home
+title: "Página inicial"
+marcador: pagina-inicial
+---
+
+<section class="post-list">
+    <ul>
+        {% for post in site.posts limit: 4 %}
+        <li onclick="location.href='{{ post.url | prepend: site.baseurl }}'"
+            title="{{ post.title }} por {{post.author}} em {{ post.date | date: '%d/%m/%Y' }}">
+            <div title=" {{ post.title }}"
+                style="background-image: url('/img/pic/{{post.image}}');"
+                class="chamada-foto">
+
+            </div>
+            <div class="chamada-texto">
+                <h2>
+                    {{ post.title }}
+                </h2>
+                <p>
+                    {{ post.excerpt | strip_html | truncatewords:30 }}
+                </p>
+                <div class="post-info">
+                    <figure>
+                        <img src="/img/authors/{{post.author-image}}.jpg"
+                            class="avatar" alt="">
+                    </figure>
+                    <div>
+                        <span class="author">
+                            {% assign authorCount = post.author | size %}
+                            {% if authorCount == 0 %}
+
+                            {% elsif authorCount == 1 %}
+                            {{ post.author | first }}
+                            {% else %}
+                            {% for author in post.author %}
+                            {% if forloop.first %}
+                            <a href="{{ author.url }}"><strong>{{ author }}</strong></a>
+                            {% elsif forloop.last %}
+                            e <a href="{{ author.url }}"><strong>{{ author }}</strong></a>
+                            {% else %}
+                            , <a href="{{ author.url }}"><strong>{{ author }}</strong></a>
+                            {% endif %}
+                            {% endfor %}
+                            {% endif %}
+                        </span>
+                        <span class="category">
+                            {{post.categories}}
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</section>

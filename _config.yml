@@ -1,0 +1,34 @@
+# Site settings
+title: Revista Žena
+name: Revista Žena
+tagline: "Artes e humanidades"
+description: "Revista cultural independente de artes e humanidades."
+url: "" # TODO: defina a URL de produção, ex: "https://revistazena.com.br"
+baseurl: ""
+lang: pt-BR
+timezone: America/Recife
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Social
+facebook: revistazena
+twitter: revistazena
+github: wagnerbeethoven
+instagram: revistazena
+
+# Contact
+email: "revistazena@gmail.com"
+
+# Build
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - node_modules
+  - gruntfile.js
+  - package.json
+  - revistazena_site
+  - revistazena_img
+  - revistazena_authors

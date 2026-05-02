@@ -1,0 +1,252 @@
+# Revista Žena
+
+![Revista Žena](https://raw.githubusercontent.com/revistazena/revistazena.github.io/master/assets/img/icons/android-chrome-192x192.png)
+
+Site em Jekyll da Revista de jornalismo literário
+
+Lista de posts atualizados
+
+- [x] Violência contra a mulher: nas ruas e na televisão por Lis Lemos e Nataly Queiroz
+- [x] A poesia filosófica embriagante de Lírian por Belisa Parente
+- [x] Ser, ter e renascer por Camila Ribas
+- [x] O trabalho e os novos sofrimentos psíquicos da contemporaneidade por Cláudia Danielle B .Leite
+- [x] O Jogador por Belisa Parente
+- [x] As caras e bocas de Pablo Picasso em vídeo por Bárbara Buril
+- [x] Zine Žena #1 por Revista Zena
+- [x] Sexo! A terceira idade PODE por Camila Ribas
+- [x] Isadora Duncan por Camila Ribas
+- [x] O colosso de Sylvia Plath por Belisa Parente
+- [x] Ensaio fotopoético de Silvia Schmidt por Belisa Parente
+- [x] Carta social por Belisa Parente
+- [x] As super mulheres e a desvolução masculina por Manuella Bezerra
+- [x] A fugacidade das impressões por Sabrina Viegas
+- [x] A falta da voz brasileira na Globo por Urariano Mota
+- [x] Uma Margarida faz revolução por Belisa Parente
+- [x] “Quando dormem as feiticeiras” por Belisa Parente
+- [x] 100 anos do Eu (ou Augusto dando emoção à pedra) por Daniela Galdino
+- [x] Coração sem fio por Dani Leão
+- [x] De um lado… e do outro… as notícias correm por Belisa Parente
+- [x] A centenária força vital de Nelson Rodrigues por Belisa Parente
+- [x] Vida: uma peça sem ensaios por Mirthyani Bezerra
+- [x] Poesias de Nando Pessoa por Fernando Pessoa
+- [x] “Jards Macalé Canta” por Revista Zena
+- [x] Aromas e florais na cura psicossomática por Belisa Parente
+- [x] Vistosidades por André George Medeiros
+- [x] A nossa essência por Camila Ribas
+- [x] A cosmoloucura familiar de Badida Campos por Belisa Parente
+- [x] “A Transfiguração do Psiconauta” por Tales Francino
+- [x] Zine “De Cara com a Poesia” completa 10 anos por Belisa Parente
+- [x] Porto Seguro por Neide Carvalho
+- [x] O axé elucubrado das Olinda por Mirthyani Bezerra
+- [x] Miró, o poeta que não aparece em Febre do Rato por Urariano Mota
+- [x] La Grande Dame por Wagner Beethoven
+- [x] Folheie o mundo e marque sua vida por Dani Leão
+- [x] Ative-se para um sexo melhor por Camila Ribas
+- [x] A arte de agradecer por Camila Ribas
+- [X] O submundo encantador de Zizo por Belisa Parente
+- [x] “Magical Mistery Tour” de Paul no Recife por Felipe Regis
+- [x] Pobre Leninha por Belisa Parente
+- [x] Vegan: Vida saudável no prato por Juliana Lins
+- [x] Entrevista com a escritora Jana Lauxen por Belisa Parente
+- [x] Janela panorâmica por Dani Leão
+- [ ] Um mundo de luz pela frente por Camila Ribas
+- [ ] Série: Dog Superior por Vitor Batista
+- [ ] O esteta e o mancebo do sedutor Kierkegaardiano por Lorenza Mucida
+- [ ] Nada de catucar espinha e cravo em casa! por Camila Ribas
+- [ ] Tornar-se Drag por Nina Korovha
+- [ ] Relaxe com adrenalina na veia! por Camila Ribas
+- [ ] Pastilhas & Ventoinhas por Zeca Viana
+
+- [x] O encanto iraniano de Forough Farrokhzad por Fernanda Limão
+- [x] Mais nãos, mais vida por Camila Ribas
+- [x] Luísa, prazer por Jana Lauxen
+- [x] Lote sem começo, sem número, sem fim por Belisa Parente
+- [ ] Figuras de la Exclusión acorda a flaneur por Bárbara Buril
+
+- [x] Econominha, tenho uma empresa particular por Dani Leão
+- [x] É, eu sou Dzi Croquettes por Camila Ribas
+- [x] Programação Janela de Cinema por Revista Zena
+- [x] O mundo é uma célula viva pulsante por Belisa Parente
+- [x] Meritocracia por Jana Lauxen
+- [x] Lope por Pedro Américo de Farias
+- [x] Abra a Janela e dê uma volta no centro por Belisa Parente
+- [x] A passagem do poeta por Neide Carvalho
+- [x] Um-bi-go por Dani Leão
+- [x] Nos setembrais de Junio Barreto por Revista Zena
+- [x] Morte incorporation por Nina Korovha
+- [x] Machinhos por Sabrina Viegas
+- [x] Fiat Lux! por Daniela Galdino
+- [x] Estará salvo o bilhete? por Belisa Parente
+- [x] 10 anos da Mombojó por Belisa Parente
+- [x] Sentimento ingrato por Belisa Parente
+- [x] O jornalismo literário de Euclides da Cunha por Revista Zena
+- [x] Memória viva por Vitor Batista
+- [x] Saudade do exagerado por Camila Ribas
+- [x] Profissão: Juiz implacável por Jana Lauxen
+- [x] Entre tosses e vovó, a mãe por Manuella Bezerra
+- [x] Bonequinha de lusho por Nina Korovha
+- [x] A Onça por Revista Zena
+- [x] A morte do Vaqueiro Raimundo Jacó por Belisa Parente
+- [x] A literatura mulherzinha de Marian Keyes por Camila Ribas
+- [x] O lado triste da vida por Vitor Batista
+- [x] O interessante é o jogo? por Revista Zena
+- [x] Sobre samurais e irmandades por Revista Zena
+- [x] Sina por Eduardo Melo
+- [x] O Flerte do Pássaro Liberto por Belisa Parente
+- [x] O Chuá de Carmem Miranda por Belisa Parente
+- [x] Fogo, pedra e fumaça por Carlos Henrique Magnata
+- [x] Efemérides por Revista Zena
+- [x] Adotar animais é tudo de bom! por Camila Ribas
+- [x] Território marginal por Vitor Batista
+- [x] Ben 10 e a roleta russa por Manuella Bezerra
+- [x] Tudo novo, um disparo, um jogo por Leda Pinheiro
+- [x] Sobre Áries (21/03 a 20/04) por Carlos Costa
+- [x] Recordações em registro por Larissa Alves
+- [x] “Não se mata o que é feio com o espanto … Nem se chora ou agoura o que é bonito” por Daniela Galdino
+- [x] Insatisfação absurda por Isabel Airam
+- [x] A brabeza Pernambucana diante o absurdo por Belisa Parente
+- [x] Entrevista Juliano Klevanskis por Nelson Burd
+- [x] De roubos, furtos e moral por Urariano Mota
+- [x] Saias-sóis por Marcelo Mário Mello
+- [x] Rita por Carlos Henrique Magnata
+- [x] O nosso carnaval no gueto por Belisa Parente
+- [x] Neshat por Bárbara Buril
+- [x] Grito mítico ou uma inflexão “pós”-moderna por Franzé Matos
+- [x] Coisas e loisas da literatura por Pedro Américo de Farias
+- [x] Ceridwen A tríplice luz da vida por Carlos Costa
+- [x] Uma virada por Belisa Parente
+- [x] Um pouco de tudo! por Gustavo Fontes
+- [x] “Ser e pensar é o mesmo” por Gabriel Kafure
+- [x] Sagitário por Carlos Costa
+- [x] O Sujo por Lady Foppa
+- [x] O Rio e O Mar por Marcelo Mário Mello
+- [x] Minicrônicas do poeta Lara por Poeta Lara
+- [x] Entrevista Daniel Peixoto por Belisa Parente
+- [x] Complicadas Resoluções por Jana Lauxen
+- [x] Festa Literária Internacional de Pernambuco 2010 por Revista Zena
+- [x] Vamos dançar reggae por Belisa Parente
+- [x] Quixotes, semi-loucos, peters pans, trânsfugas, bichos-grilos por Poeta Lara
+- [x] O verbo solto dos marginais por Belisa Parente
+- [x] O sexo anal no meio das mulheres por Marcelo Mário Mello
+- [X] “No Meio do Mundo” entra em cartaz por Revista Zena
+- [x] Entrevista Urariano Mota por Belisa Parente
+- [x] Café Cultural Fafire comemora um ano com escritores papeando sobre produção literária por Camila Ribas
+- [x] Amelie pousa na cálida Anoirguerr por Belisa Parente
+- [x] A solução do Bullying – EU TENHO! por Jana Lauxen
+- [x] Por Clarice por Belisa Parente
+- [x] O aniversário de Dona Maria por Urariano Mota
+- [x] Bolsonaro, Tas e os Cães que Ladram por Jana Lauxen
+- [x] 'Uma monja' por Bárbara Buril
+- [x] Sexualidade, feminismo e gênero na Fliporto 2010 por Bárbara Buril
+- [x] Ser Humano é raio sem direção por Franzé Matos
+- [x] O olhar humanista de Abelardo da Hora por Belisa Parente
+- [x] O borbulhar literário da Fliporto por Belisa Parente
+- [X] Senhora fina compra juventude por Urariano Mota
+- [x] Plena nudez por Raimundo Carreiro
+- [x] Joanna Maranhão: mártir ou vilã? por Manuella Bezerra
+- [x] Eleitores-Nulos por Jana Lauxen
+- [x] Da dor afloram obras primas por Belisa Parente
+- [x] Circunspeção Musical por Dani Oliveira
+- [x] Calypso A oculta ou a que se esconde por Carlos Costa
+- [x] A cosmoloucura da natureza humana por Belisa Parente
+- [x] Não basta ser mãe, tem que inventar moda! por Camila Ribas
+- [x] Saber Viver por Revista Zena
+- [x] Pedalar é preciso por Júlia Schiaffarino
+- [x] “Vagabunda tem que morrer mesmo, mereceu” por Jana Lauxen
+- [x] O “adeus” de Teresa, de Castro Alves por Revista Zena
+- [x] Notícias que reverberam no estômago: os homens-bichos por Camila Ribas
+- [x] Movimento por Manuella Bezerra
+- [x] Leão por Carlos Costa
+- [x] Glitter, cola e contos de fadas: um mundo de Jamie Vasta por Bárbara Buril
+- [x] Entrevista – Guilherme Arantes por Zeca Viana
+- [x] A religiosidade do presente por Camila Ribas
+- [x] Pessoinha por Manuella Bezerra
+- [x] O Chuá de Carmem Miranda por Belisa Parente
+- [x] Furacão de criatividade pós Katrina por Bárbara Buril
+- [x] Desventuras e aventuras de quem mora só por Franco Benites
+- [x] Cala a Boca Tadeu Schimidt por Jana Lauxen
+- [x] Blueswoman por Dani Oliveira
+- [x] 10º Café Cultural Fafire discute cinema alemão por Camila Ribas
+- [x] Leila, a Leiluska por Camila Ribas
+- [x] A Santa Poesia da Mulher Amada por Marcelo Mário Mello
+- [x] Quando éramos analógicos por Rodrigo Freitas
+- [x] Quais suas exigências? por Flávio H. Leal Lima
+- [x] Pernambuco, terra da ‘Massa’ por Belisa Parente
+- [x] O meu carnaval por Belisa Parente
+- [x] Legalize. por Jana Lauxen
+- [x] Amor sem padrão por Manuella Bezerra
+- [x] Gêmeos por Carlos Costa
+- [x] Do amor e seu calendário. por Leda Pinheiro
+- [x] Touro por Carlos Costa
+- [x] Uma paixão tardia por Urariano Mota
+- [x] Salvador Dalí e a presença imperiosa de Gala por Belisa Parente
+- [x] Press Blues por Marcelo Mário Mello
+- [x] Mulheres que desafiam os limites do corpo por Manuella Bezerra
+- [x] HPV por Jana Lauxen
+- [x] Espelhos para decorar por Camila Ribas
+- [x] Dia das Mães – Dicas de Livros por Belisa Parente
+- [x] “Carícias” onde não há carícia! por Belisa Parente
+- [x] Androinventado por Belisa Parente
+- [x] O que é o que é? por Marcelo Mário Mello
+- [x] Viva o roquenrou no Recife! por Belisa Parente
+- [x] Yom Hatzmaut: Israel comemora independência por Nelson Burd
+- [x] The Runaways por Dani Oliveira
+- [x] Organização sim, mas sem frescuras por Franco Benites
+- [x] Mangue Beat é discutido com fundadores do movimento por Camila Ribas
+- [x] Eterna busca por sentido por Belisa Parente
+- [x] Chapados de testosterona por Flávio H. Leal Lima
+- [x] “Certa Manha Acordei de Sonhos Intranquilos” por Belisa Parente
+- [x] Calma, pequenininho por Revista Zena
+- [x] VI Festa Literária Internacional de Pernambuco por Belisa Parente
+- [x] Profissão: Mulher por Ana C. Pozza
+- [x] Peixes por Carlos Costa
+- [x] Um pouco de androginia por Dani Oliveira
+- [x] Peite a vida! por Camila Ribas
+- [x] Os Grandes Valentões da Madrugada e O Dia Internacional da Mulher por Jana Lauxen
+- [x] Mezinárodní den žena — Dia Internacional da Mulher por Belisa Parente
+- [x] Mastectomia, pós-operatório, autoimagem e autoestima em tempos de culto ao corpo por Cláudia Danielle B .Leite
+- [x] Gente por Laércio Lima (Black)
+- [x] Em busca do nosso tempo perdido por Veronica Fraga
+- [x] As boas mulheres boas por Camila Ribas
+- [x] Alma feminina para governar o lar por Franco Benites
+- [x] Eu Não Me Economizo por Sintia Lira
+- [x] “Cogito, ergo sum” por Revista Zena
+- [x] Voz por Eriberto Henrique
+- [x] A desgraçada da pomadinha por Manuella Bezerra
+- [x] O amor é a vista de um ponto por Jana Lauxen
+- [x] Maria Madalena era santa, prostituta ou esposa exemplar? por Camila Ribas
+- [x] Macrolove por Marcelo Mário Mello
+- [x] Jó entrou em férias. Sem prazo para retorno. por Manuella Bezerra
+- [x] II Janela Internacional de Cinema do Recife por Belisa Parente
+- [x] Double Take por Dani Oliveira
+- [x] Coletânea Recife Lo-Fi Volume I por Belisa Parente
+- [x] Ciúmes por Flávio H. Leal Lima
+- [x] A Filosofia da Comunicação por Gabriel Kafure
+- [x] Libra por Carlos Costa
+- [x] Kosmopolitní Módy por Marina Reithler
+- [x] Amor & Paixão por Paulo Ernesto Arrais do Nascimento
+- [x] O tiro saiu pela culatra por Manuella Bezerra
+- [x] Da hepatite para a ação no mundo por Camila Ribas
+- [x] Xamanismo: O poder das “Plantas Professoras” por Belisa Parente
+- [x] Orçamentos públicos, gênero e democracia por Nataly Queiroz
+- [x] Nem algozes nem vítimas por Marcelo Mário Mello
+- [x] Mulheres Farsistas por Belisa Parente
+- [x] MAAT – A verdade é jovem por Carlos Costa
+- [x] Cinema São Luiz abre os olhos por Belisa Parente
+- [x] Avatar por Camila Ribas
+- [x] Aposentando as nadadeiras por Manuella Bezerra
+- [x] A batata, o crack e a gente por Jana Lauxen
+- [x] Tudo pelo contrário por Camila Ribas
+- [x] Toque Feminino por Manuella Bezerra
+- [x] Sexo com amor ou sem por Sabrina Viegas
+- [x] Primavera Interrompida por Belisa Parente
+- [x] Odin: Um deus no caminho da vida e além desta por Carlos Costa
+- [x] “O Plano Infinito” por Belisa Parente
+- [x] Mulheres-Macho por Jana Lauxen
+- [x] Minha gravidez iogue por Camila Ribas
+- [x] Luz na sua casa, luz para você por Camila Ribas
+- [x] Fotografia, estética e as marcas do tempo por Larissa Alves
+- [x] A onipresença da vitalidade feminina no tempo por Gabriel Kafure
+- [x] A arte de perder por Elizabeth Bishop
+- [x] Inteligência Emocional, um bem necessário por Belisa Parente
+# revistazena.github.io

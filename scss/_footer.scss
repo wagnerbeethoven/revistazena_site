@@ -1,0 +1,46 @@
+footer {
+    @extend .py-5;
+    text-align: center;
+
+    a {
+        color: $cor-texto;
+    }
+    .divisor {
+        border-radius: 100%;
+        width: 70px;
+        height: 70px;
+        display: block;
+        @extend .mx-auto;
+        border: 3px solid $cor-principal;
+        padding: 3px;
+        @extend .mb-5;
+
+    }
+
+    .credito {
+        font-size: 12px;
+
+        @extend .my-0;
+    }
+}
+
+@keyframes love {
+    to {
+        transform: scale(1.0);
+    }
+
+    from {
+        transform: scale(1.1);
+    }
+}
+
+.coracao {
+    color: #CE0F5D;
+    display: inline-block;
+    position: relative;
+    font-size: 1.4em;
+    -webkit-transform: scale(.9);
+    -moz-transform: scale(.9);
+    transform: scale(.9);
+    animation: love .5s infinite linear alternate-reverse;
+}

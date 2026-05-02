@@ -1,0 +1,44 @@
+---
+layout: home
+---
+
+    <figure class="figure">
+        <img src="/img/pic/{{page.image}}" loading="lazy"
+            alt="{{page.title}} - {{page.legend}}" title="{{page.title}} - {{page.legend}}" />
+        <figcaption class="legend">{{page.legend}}</figcaption>
+    </figure>
+    <article class="post">
+        <h1 class="titulo">
+            {{page.title}}
+        </h1>
+        <div class="meta">
+            {{page.categories}} &bull;
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+              {{ page.date | date: "%-d" }} de
+              {% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %} janeiro {% when '2' %} fevereiro
+              {% when '3' %} março {% when '4' %} abril {% when '5' %} maio {% when '6' %} junho {% when '7' %}
+              julho {% when '8' %} agosto {% when '9' %} setembro {% when '10' %} outubro {% when '11' %} novembro
+              {% when '12' %} dezembro {% endcase %} de {{ page.date | date: "%Y" }}
+            </time> &bull;
+
+            {% assign authorCount = page.author | size %}
+            {% if authorCount == 0 %}
+
+            {% elsif authorCount == 1 %}
+            {{ page.author }}
+            {% else %}
+            {% for author in page.author %}
+            {% if forloop.first %}
+            {{ author }}
+            {% elsif forloop.last %}
+            e {{ author }}
+            {% else %}
+            , {{ author }}
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+        </div>
+        <div class="texto">
+            {{content}}
+        </div>
+    </article>

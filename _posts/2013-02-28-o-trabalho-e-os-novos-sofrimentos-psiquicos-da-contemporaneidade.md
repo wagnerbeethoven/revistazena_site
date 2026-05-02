@@ -1,0 +1,31 @@
+---
+title: O trabalho e os novos sofrimentos psíquicos da contemporaneidade
+author: Cláudia Danielle B .Leite
+author-image: cl-udia-danielle-b-leite
+layout: post
+excerpt: 
+permalink: /danielleclaudialeite/materia/o-trabalho-e-os-novos-sofrimentos-psiquicos-da-contemporaneidade/
+image: hand-photo-pascal-renoux.jpg
+legend: Hand (Foto&#58; Pascal Renoux)
+categories:
+  - Matéria
+---
+Os avanços da medicina, o acesso às informações que a Internet disponibiliza, os bens de consumo, avanços de incrementos tecnológicos e biotecnológicos e as exigências do mercado de trabalho operam sensíveis mudanças nas posições subjetivas e, consequentemente, mudanças nas formas de sofrimento psíquico do homem contemporâneo. Se a histeria foi o modo de sofrimento mais evidente no final do século 19 e início do século 20, a depressão sem dúvida é a marca mais constante do fim do século 20 e nascimento do século 21. Um crescente avanço de casos de depressão vem sendo constatados nos consultórios médicos, psicológicos e nas unidades de saúde mental.
+
+Nos pacientes o que vemos é o **desejo** como um sofrimento quase insuportável. Talvez porque, na cultura contemporânea, desejar leva necessariamente a uma outra equação diferente da que remete à parcialidade. Alguns estudiosos acham que desejar não é mais conviver com aquilo que não se tem e que se almeja obter no futuro, desejar hoje "está" no concreto. Por sua vez, a dimensão do futuro parece assustadora para estes "novos pacientes da clínica contemporânea". Para estes representar-se no futuro é quase impossível. O tempo não é percebido como contínuo. Entre uma coisa e outra, muitas vezes, o que emerge é o vazio que o tempo tenta a todo custo obturar, pois o presente está desvinculado do passado e da sua relação com o futuro.
+
+Os desafios da clínica contemporânea são inúmeros e as demandas em saúde mental ilustram novas formas de mal-estar e sofrimento mental imbricadas no contexto sócio-político e econômico. Verifica-se ainda importantes mudanças de paradigma na atenção à saúde, que trabalha hoje com a noção de clínica institucional, em que vínculo, humanização, integralidade, responsabilidade e rede são alicerces para qualquer ação em saúde.
+
+Diante destes fatos verifica-se que o profissional de psicologia tem se deparado com a necessidade de dispor e construir recursos para o trabalho de acolhida desses diversos contextos em crise da contemporaneidade. As demandas em saúde mental mobilizam não só os técnicos, mas colocam em questão as próprias práticas de atendimento problematizando acerca dos modelos tradicionais de atenção e ativando a implementação de uma clínica sensível à diversidade sociocultural e aos modos contemporâneos de produção de subjetividade.
+
+A clínica vista como prática crítica realiza uma análise contextual do sofrimento e de sua relação com os processos de produção de subjetividade, o "vir a ser". A clínica institucional trabalha a permanente contextualização do sofrimento com os contextos sociopolíticos, do psíquico com o social. No âmbito da clínica institucional, o trabalho em grupo constituiu-se como uma importante via de intervenção, atuando como fator de potencialização da construção de outros modos coletivos de existência.
+
+A época atual ainda apresenta os principais fundamentos da modernidade: o pensar sempre no futuro, o querer estar sempre à frente e o consumo. Parece que os ideais iluministas de evolução e progresso ainda fazem parte desta sociedade. No entanto, as descobertas da ciência estão sempre visando um suposto aperfeiçoamento humano. Enquanto na modernidade perdeu-se a liberdade em prol da segurança; na pós-modernidade ou **modernidade líquida** trocou-se a segurança pela liberdade. O preço pela liberdade da atualidade é uma insegurança quanto ao futuro. Entretanto, não se pode esquecer que durante a maior parte da história ocidental o ser humano teve o trabalho de adaptar-se a mudanças, houve momentos onde a incerteza também prevaleceu. As guerras, os desastres, a fome, sempre estiveram presentes e, por causa disso, foi preciso viver em condições adversas de total incerteza.
+
+Dessa forma, as possibilidades de escolhas infinitas e variadas, trazem mal estar na medida em que não se pode nunca viver tudo, ter tudo. O sofrimento está ligado à identidade do indivíduo contemporâneo permeada pela exigência de consumo nunca satisfeita. Este é o cenário contemporâneo que abre caminho para certa intolerância ao sofrimento e maior consumo de remédios para acalmá-lo. O ideal de perfeição contemporâneo dominado pela exigência de felicidade e alegria não abre espaço para a tristeza, a depressão, o luto. Os psicofármacos viraram os dispositivos atuais para o ser humano lidar com a dor psíquica.
+
+A depressão é vista, portanto, como um problema de desequilíbrio químico do cérebro, e seu tratamento retira do sujeito qualquer implicação com as causas da sua própria dor, e privilegia o desaparecimento do sintoma em detrimento de uma elaboração psíquica.
+
+Mas porque uma maior incidência de depressão nesta sociedade? Segundo alguns críticos isto ocorreu porque o sujeito contemporâneo está sob o domínio dos ideais de iniciativa e de responsabilidade ao mesmo tempo em que falta alicerces na sociedade para apoiá-lo. A depressão surgiria ,assim, como uma patologia da responsabilidade de ser si mesmo, na qual o sentimento que domina é a insuficiência, seria ainda como uma reação à demanda impossível de se cumprir algo.
+
+Em recente pesquisa Cenci (2004) ressalta que aspectos da saúde e da doença estão claramente presentes no contexto de trabalho contemporâneo. Tais aspectos permeiam a vida dos trabalhadores que muitas vezes adoecem orgânica e psiquicamente no exercício diário das suas atividades laborais. Contudo, sabe-se que o trabalho possui um papel importante na vida do indivíduo e dessa atividade depende não só o sustento do trabalhador, mas a ela está também associado um significado que diz respeito a função e reconhecimento social. A manutenção do trabalho se constitui em forma de legitimação social enquanto sujeito. Sua atividade laborativa lhe confere reconhecimento e um lugar no mundo do trabalho. Para se manter nesse lugar o trabalhador cria estratégias defensivas. Ele depara-se com um ambiente sentido como hostil e muitas vezes gerador de doença.

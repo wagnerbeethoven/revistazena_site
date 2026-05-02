@@ -1,0 +1,192 @@
+main {
+
+    @extend .py-5;
+}
+
+.post {
+    &-list {
+        ul {
+            @extend .row;
+
+            li {
+                @extend .col-12;
+                @extend .col-md-4;
+                @extend .pb-5;
+
+                &:hover,
+                &:focus,
+                &:active {
+                    cursor: hand;
+                }
+
+                .chamada-foto {
+                    background-size: cover !important;
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    border-radius: 4px;
+                    height: 175px;
+
+                }
+
+                .chamada-texto {
+                    h2 {
+                        // font-weight: 600;
+                        font-size: 22px;
+                        @extend .m-0;
+                        @extend .px-0;
+                        @extend .pt-2;
+                        @extend .pb-4;
+                        min-height: 110px;
+                    }
+
+                
+                }
+
+                .chamada-foto,
+                .chamada-texto {
+                    @extend .col-12;
+                    @extend .px-0;
+
+                }
+
+                &:nth-child(4n-7) {
+                    @extend .col-12;
+                    @extend .row;
+
+                    .chamada-foto {
+                        @extend .col-12;
+                        @extend .col-md-8;
+                        height: 550px;
+                    }
+
+                    .chamada-texto {
+                        @extend .col-12;
+                        @extend .col-md-4;
+
+                        @extend .pl-0;
+                        @extend .pl-md-4;
+
+
+                        p {
+                            @extend .d-block;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    &-info {
+        @extend .row;
+        @extend .d-flex;
+        @extend .align-items-center;
+
+        figure {
+            @extend .col-4;
+            @extend .m-0;
+
+            img {
+                border-radius: 100%;
+                max-width: 100%;
+            }
+
+        }
+
+        div {
+            @extend .col-8;
+            @extend .d-block;
+
+            span {
+                @extend .d-block;
+                @extend .col-12;
+                @extend .px-0;
+
+                &.category {
+                    @extend .pt-2;
+                }
+
+            }
+        }
+    }
+
+    .meta {
+        text-align: center;
+        @extend .pb-5;
+        position: relative;
+
+        &:after {
+            content: " ";
+            width: 80px;
+            height: 1px;
+            background: $cor-principal;
+            left: 50%;
+            margin-left: -40px;
+            position: absolute;
+            bottom: 20px;
+        }
+    }
+}
+
+.page {
+    >figure {
+        @extend .m-0;
+
+        img {
+            width: 100%;
+            border-radius: 4px;
+        }
+
+   
+    }
+
+    &-todas-as-publicacoes {
+        h2 {
+            color: $cor-principal;
+            font-size: 18px;
+        }
+
+        nav {
+            h2 {
+                @extend .col-12;
+                @extend .px-0;
+
+            }
+
+            ul {
+                @extend .row;
+                margin-right: -15px !important;
+                margin-left: -15px !important;
+
+                li {
+                    @extend .p-3;
+
+                }
+            }
+        }
+    }
+
+    section {
+        @extend .pt-5;
+        // border-xtop: 1px solid $cor-principal;
+
+        h2 {
+            @extend .mt-0;
+        }
+
+        ul {
+            @extend .m-0;
+
+            li {
+                @extend .py-2;
+            }
+        }
+    }
+}
+
+.lista-pinturas {
+    column-count: 3;
+    column-gap: 1em;
+
+   
+}

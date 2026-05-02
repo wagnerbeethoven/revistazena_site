@@ -1,0 +1,50 @@
+---
+layout: page
+title: "Todas as publicações"
+marcador: todas-as-publicacoes
+image: Escola-Japonesa-Abadonanda-Foto-www.tokyotimes.org_.jpg
+legend: Escola japonesa abandonada (Foto &#58; Tokyo Times)
+---
+
+<h2>Navegue pelas categorias</h2>
+<nav>
+    <ul> {% for category in site.categories %}
+        <li>
+            <a href="#{{ category | first | remove:' ' }}">
+                {{ category | first }}
+            </a>
+        </li>
+        {% if forloop.last %}{% else %}{% endif %}{% endfor %}
+    </ul>
+</nav>
+
+{% for category in site.categories %}
+<section id="{{ category | first | remove:' ' }}">
+    <h2>
+        {{ category | first }}
+    </h2>
+    <ul>{% for posts in category %}{% for post in posts %}{% if post.url %}
+        <li>
+            <a href="{{ post.url }}">
+                <strong>{{ post.title }}</strong> &bull;{% assign authorCount = post.author | size %}
+                {% if authorCount == 0 %}
+
+                {% elsif authorCount == 1 %}
+                {{ post.author | first }}
+                {% else %}
+                {% for author in post.author %}
+                {% if forloop.first %}
+                {{ author }}
+                {% elsif forloop.last %}
+                e {{ author }}
+                {% else %}
+                , {{ author }}
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+            </a>
+        </li>
+        {% endif %}{% endfor %}{% endfor %}
+    </ul>
+</section>
+{% endfor %}

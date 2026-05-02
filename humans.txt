@@ -1,0 +1,5 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Wagner Beethoven @wagnerbeethoven | Recife, PE [htt://wagnerbeethoven.github.io]

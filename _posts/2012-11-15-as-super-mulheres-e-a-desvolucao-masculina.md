@@ -1,0 +1,37 @@
+---
+title: As super mulheres e a desvolução masculina
+author: Manuella Bezerra
+author-image: manuella-bezerra
+layout: post
+permalink: /manuellabezerra/coluna/as-super-mulheres-e-a-desvolucao-masculina/
+image: conservative-progress.jpg
+categories:
+  - Coluna
+tags:
+  - Crônica
+  - desvolução masculina
+  - evolução da especie
+---
+Das inúmeras características femininas, somente uma eu abomino profundamente: O cheiro de mulher. Esse perfume doce e sedoso me dá uma náusea triste. Talvez por este motivo eu não seja gay, nem nunca tenha vivido experiências homossexuais. De resto, pra mim, as mulheres são as criaturas mais encantadoramente lindas e complexas da humanidade. Mais do que os lêmures, as borboletas e até mesmo as girafas, com seus pescoções elegantes e toda aquela **altivez**. O negócio é que venho percebendo um fenômeno negativo desenhado na alma de **Vênus**. As meninas têm passado por um conflito no quesito emocional, uma oscilação entre o que se é e o que se gostaria/ ou deveria ser; e com isso, toda a subjetividade e ônus prático que a questão acarreta. Tá confuso né? Vou explicar.
+
+Eu sempre fui muito moleca. Pouca frescura, afoita, com habilidade física aguçada, corajosa (beirando tendências suicidas) e aventureira. Passei a vida com as pernas emperebadas e os joelhos ralados (essa parte não mudou, mesmo beirando os 30). E isso me possibilitou uma ótima circulação entre os seres de** Marte**, aqueles do sexo masculino. Mas um excesso de sensibilidade nunca me impediu de circular muito bem entre as meninas, o que fez de mim uma abençoada criatura de muitas e boas amigas das mais variadas linhagens, pra todo tipo, todo gosto, todo jeito; e principalmente uma boa ouvidora de suas histórias. Tive uma sorte medonha nesse aspecto.
+
+Cresci rodeada de grandes mulheres. Dona **Zeza**, a mãe desta humilde escrivinhadora que vos fala, tem defeito a dar com o pau, mas tinhosa e valente é ela. Minha irmã, já falecida, era alguém com uma postura bem à frente do seu tempo; independente, linda, trabalhadora e com uma personalidade, diria, peculiar e nada discreta – qualquer semelhança é mera definição genética. A maioria das mulheres que me rodeiam têm também um pouco desse perfil. Elas são independentes, lindas, inteligentes. Muita **opinião**, informação e vida social. Usam roupas que acham que devem usar, exercem livremente a sexualidade, exageram nas botas e no vermelho do batom e se intrometem nas conversas balizadas com muito entusiasmo, seja sobre carros, economia, política ou esmaltes e promoções de sapatos. Isso tudo porque perceberam que não existe contradição alguma entre ser linda, inteligente e bem sucedida.
+
+Esse comportamento não brotou nas trevas do além. Ele tem um motivo de ser totalmente **antropológico**. Enquanto em um passado recente as mulheres ainda eram criadas para serem donzelas do lar, terem um esposo macho-alfa provedor, parir, cuidar da cria e morrer sem ter orgasmos; uma geração inteira delas – ainda que não se autodenominem feministas &#8211; foi criada com base em princípios feministas de igualdade de gêneros, iniciados timidamente no início do século XX, mas popularizados somente entre 1960 e 1980, com a famosa revolução sexual e aquela maldita queima de **sutiãs** em praça pública, lembram?
+
+Sejamos práticas: a minha mãe, por exemplo, é uma linda criatura **machista** e sonhou a vida inteira em me ver de branco em um altar, fez das tripas coração para que eu entrasse em uma faculdade, estudasse e tivesse minha independência financeira (possivelmente para não cometer o mesmo equívoco fez justamente o oposto). Assim como eu, as minhas amigas vivem a mesma peleja (aquelas todas lindas que me referi) e mais uma pá cheia de mulheres, que cresceram dentro de outro contexto cultural.
+
+E a questão é: Você aí, que tá dizendo **#mimimi** lá vem Manuella com as feminizes dela, sinto muito informar, mas também é feminista. Porque esse direito de escolher com quem você vai transar, de discutir política na mesa de um bar tomando cerveja e sair no dia seguinte pra trabalhar &#8211; que te parece óbvio – não seria tão obvio assim se não fossem as chatas das feministas aperreando e batendo na mesma tecla durante anos e anos. Sem elas você poderia ir e para a **fogueira** ou sofrer apedrejamento. Como ainda acontece em algumas instâncias geográficas.
+
+Onde eu quero chegar com esse arrodeio todo? No grande problema que pode extinguir definitivamente a raça humana (isso foi uma piada hiperbólica): O velho paradoxo das relações homem mulher, e o grande –se não maior – equívoco histórico disso tudo. O responsável por esse pagode todo esqueceu de avisar que os homens também precisavam participar deste processo de **transformação**.
+
+Perceba. Enquanto temos um exército de mulheres filhas dessa transformação; os homens continuam exatamente no mesmo lugar. Sendo criados da mesma maneira, com a mesma perspectiva de trabalhar para ser provedor **macho-alfa** ache buscar uma esposa-padrão para ser a mãe de seus filhos; com cara de boneca, que fale baixo, cruze as pernas ao sentar e lembre algo próximo ao desejado troféu/taça do Brasileirão de 1987. Essa contradição histórica resulta em um processo duro de construção dos novos relacionamentos.
+
+A conclusão é que a maioria dos homens não tem o psicológico preparado para receber essa **‘nova mulher’** nas suas vidas. Ele pode se aproximar, tentar, iniciar, dar o start, mas num dado momento… somem – pelas experiências vividas e ouvidas. É muita informação para apenas uma unidade de mulher. Bonita demais, inteligente demais, interessante demais, independente demais. Veste-se bem, mora só – ou não, não faz diferença – algumas têm filhos, vida de adulto, trabalha, sustenta, faz tarefa e feira. Bota o salto e tem a gargalhada muito alta, dessas que engole o mundo.
+
+E então, antes que ela termine de contar a própria história, quando pisca o olho, aquele homem lindo (alguns até mais evoluídos, trabalhados em baixos índices de machismo) que até cinco minutos atrás estava super interessado – e muitas vezes, realmente falava a verdade quando dizia que te achava uma mulher maravilhosa-, já desapareceu. Por receio, **insegurança**, covardia ou preconceito (ou todas as alternativas). No dia seguinte você vai pagar uma conta no caixa eletrônico do shopping e o encontra de braços laçados com uma Barbie, como num desfile de apresentação da sua dama à sociedade. (Que fique claro: isso não é o relato de uma experiência particular, mas uma teoria formulada com base em centenas de histórias – centenas – ouvidas atentamente no meu Recife afora).
+
+Mas ora, porque o drama se as tais moças são assim tão **independentes**? É que justamente essa mesma antropologia mostrou a essas moças – nós – que além de conseguirmos ser bonitas e inteligentes em um pacote só; também não era pra existir contradição em ser independente e moderna e viver um amor, uma bela história, dividir momentos com alguém. E por mais desenrolada que seja, ninguém está livre do sentimento de frustração da expectativa, da saudade e da consideração e responsabilidade com o sentimento cativado.
+
+Não confundam independência com frieza e falta de coração. Dou garantia. Elas não querem transformar vocês, homens, em príncipes encantados, não esperam cavalos brancos e menos ainda que você a leve para o **altar** vestida de branco. Ela só precisa sentir-se amada do jeito que é, sem precisar entrar em crise existencial, reprimir-se ou se submeter a um processo de **mutação** de mulher de verdade à princesinha de cristal.
