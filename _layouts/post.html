@@ -3,7 +3,7 @@ layout: home
 ---
 
     <figure class="figure">
-        <img src="/img/pic/{{page.image}}" loading="lazy"
+        <img src="{{ '/img/pic/' | append: page.image | relative_url }}" loading="lazy"
             alt="{{page.title}} - {{page.legend}}" title="{{page.title}} - {{page.legend}}" />
         <figcaption class="legend">{{page.legend}}</figcaption>
     </figure>

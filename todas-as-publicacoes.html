@@ -25,7 +25,7 @@ legend: Escola japonesa abandonada (Foto &#58; Tokyo Times)
     </h2>
     <ul>{% for posts in category %}{% for post in posts %}{% if post.url %}
         <li>
-            <a href="{{ post.url }}">
+            <a href="{{ post.url | relative_url }}">
                 <strong>{{ post.title }}</strong> &bull;{% assign authorCount = post.author | size %}
                 {% if authorCount == 0 %}
 

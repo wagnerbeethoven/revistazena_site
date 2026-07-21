@@ -3,8 +3,8 @@ title: Revista Žena
 name: Revista Žena
 tagline: "Artes e humanidades"
 description: "Revista cultural independente de artes e humanidades."
-url: "" # TODO: defina a URL de produção, ex: "https://revistazena.com.br"
-baseurl: ""
+url: "https://wagnerbeethoven.github.io"
+baseurl: "/revistazena_site"
 lang: pt-BR
 timezone: America/Recife
 

@@ -7,10 +7,10 @@ marcador: pagina-inicial
 <section class="post-list">
     <ul>
         {% for post in site.posts limit: 4 %}
-        <li onclick="location.href='{{ post.url | prepend: site.baseurl }}'"
+        <li onclick="location.href='{{ post.url | relative_url }}'"
             title="{{ post.title }} por {{post.author}} em {{ post.date | date: '%d/%m/%Y' }}">
             <div title=" {{ post.title }}"
-                style="background-image: url('/img/pic/{{post.image}}');"
+                style="background-image: url('{{ '/img/pic/' | append: post.image | relative_url }}');"
                 class="chamada-foto">
 
             </div>
@@ -23,7 +23,7 @@ marcador: pagina-inicial
                 </p>
                 <div class="post-info">
                     <figure>
-                        <img src="/img/authors/{{post.author-image}}.jpg"
+                        <img src="{{ '/img/authors/' | append: post.author-image | append: '.jpg' | relative_url }}"
                             class="avatar" alt="">
                     </figure>
                     <div>
